@@ -1,5 +1,5 @@
 # eaution-webapp
-Github Link - https://https://github.com/AswiniVijay30/eaution-webapp
+Github Link - README.md
 
 Documents
 Localhost URLs:
